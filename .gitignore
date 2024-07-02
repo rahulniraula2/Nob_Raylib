@@ -1,0 +1,7 @@
+*.dSYM
+*.old
+*.DS_Store
+libplug.dylib
+main
+nob
+
